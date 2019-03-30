@@ -22,7 +22,6 @@
 
 char *ssid = "SomeKindOfSSID";
 char *pass = "SomeKindOfPassword";
-// char *hostName = "Led-PoleX";
 
 byte buffer[BUFFERSIZE];
 
